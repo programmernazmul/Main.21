@@ -1,0 +1,61 @@
+/* ============================= */
+/* header menu     */
+/* ============================= */
+.header_menu1{
+    padding: 20px 0;
+}
+.logo_box{
+    font-size: 30px;
+}
+.navbar-nav a{
+    font-size: 20px;
+}
+.form_box {
+	margin-left: 620px;
+}
+/* ============================= */
+/*    slider section   */
+/* ============================= */
+.slider_section img{
+    height: 700px;
+}
+.slidertext_box {
+	top: 251px;
+}
+/* ============================= */
+/*    About section   */
+/* ============================= */
+.about_section img{
+    width: 500px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+/* ============================= */
+/*    Table / Form Section */
+/* ============================= */
+.table_form_section{
+    background: #f8f9fa;
+}
+.table_title{
+    color: #198653;
+}
+.w-40{
+    width: 40%;
+}
+.form-check h4{
+    margin-left: -27px;
+}
+.btn_box{
+    background: #198754;
+    border: 1px solid #198754 ;
+}
+input:focus{
+    outline: none;
+}
+.stretched_Link_section{
+    background:#f8f9fa ;
+}
+.title_box{
+    color:#198754 ;
+}
